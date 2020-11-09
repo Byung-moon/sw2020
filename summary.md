@@ -7,7 +7,11 @@ This is a repository to provide scholarships to participating students in the SE
 Also, it explains the evaluation method in detail, and serves to disclose the submissions and evaluation results.
 
 
+
+
 # 형태별 추가정보 기재:
+
+
 
 ## 교과목형
 - COMP217007 자바프로그래밍 / 2020년 1학기 / 장길진
@@ -18,13 +22,19 @@ Also, it explains the evaluation method in detail, and serves to disclose the su
 - ITEC411 사물 컴퓨팅 이론 및 실습 / 2019 2학기 / 강순주
 - ITEC412 SoC설계 및 프로그래밍 / 2020 1학기 / 문병인
 
+
+
 ## 외부참여형
 - 참여기간: 2020.7.6-2020.8.31
 - 외부기관명: 한국IT비즈니스진흥협회
 - 담당: 운영사무국, 053-715-5009, 010-5421-3347
 
+
+
 ## 자율과제형
 1. ROS 시스템 기반의 자율주행 공기청정기
 - 과제수행기간: 2020.03 ~ 현재
 - 기타 정보: (종합설계프로젝트)
+
+
 
