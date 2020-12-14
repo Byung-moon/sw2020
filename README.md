@@ -1,7 +1,7 @@
 # sw2020
 This is a repository for the 2020 SW-oriented university evaluation.
 
-# 다음과 같은 항목들을 진행하면서 꾸준히 프로그래밍 역량을 쌓음과 동시에 다양한 프로그래밍 언어를 접하고 
+다음과 같은 항목들을 진행하면서 꾸준히 프로그래밍 역량을 쌓음과 동시에 다양한 프로그래밍 언어를 접하고 
 
 ## 교과목형
  - **[ITEC401 ITEC402 종합설계프로젝트1,2 / 2020 1학기, 2학기 / 문병인 교수님](https://github.com/Byung-moon/airmate)**
