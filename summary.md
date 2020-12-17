@@ -29,7 +29,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
  - **[대구영진고 JAVA프로그래밍 교육](https://github.com/Byung-moon/Yung-jin-edu)**
 
 ## 경진대회형
- - **[2020 캡스톤 디자인]()**
+ - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**
  - **[2020 코드페어]()**
  - **[정보처리학회 학부논문경진대회]()**
  - **[2019 디스플레이 챌린지]()**
