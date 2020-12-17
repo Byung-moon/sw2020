@@ -23,9 +23,40 @@ This is a repository for the 2020 SW-oriented university evaluation.
 
 
 ## 외부참여형
- - **[인공지능 기본과정(160H)](https://github.com/Byung-moon/AI_Huinno_Academy_BasicClass)**
+- **[인공지능 기본과정(160H)](https://github.com/Byung-moon/AI_Huinno_Academy_BasicClass)**
+ 
+ 
+     참여기간 : 20.07.06 - 20.08.31
+     외부기관명 : 한국IT비즈니스진흥협회
+     담당자 연락처 : 010-5421-3347 AI HuInno Academy 운영 사무국  
+     
+     
+     
+     
  - **[인공지능 고급과정(시각)](https://github.com/Byung-moon/AI_Hulnno_Academy_HighClass)**
+ 
+     
+     참여기간: 20.08.05 - 20.08.17
+     외부기관명: 한국IT비즈니스진흥협회
+     담당자 연락처: 010-5421-3347 AI HuInno Academy 운영 사무국  
+     
+     
+     
+     
+     
+     
+     
+     
  - **[대구영진고 JAVA프로그래밍 교육](https://github.com/Byung-moon/Yung-jin-edu)**
+ 
+ 
+     참여기간: 19.09 - 19.11
+     외부기관명: 대구영진고등학교
+     담당자 연락처: 대구영진고 이대형 선생님
+
+
+
+
 
 ## 경진대회형
  - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**
