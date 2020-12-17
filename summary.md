@@ -30,7 +30,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
 ## 경진대회형
  - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**
  - **[2020 코드페어](https://github.com/Byung-moon/codefair2020)**
- - **[정보처리학회 학부논문경진대회]()**
+ - **[정보처리학회 추계학술발표대회](https://github.com/Byung-moon/RunningMate)**
  - **[2019 디스플레이 챌린지]()**
  - **[2018 제4회 과학치안 아이디어 공모전]()**
 
