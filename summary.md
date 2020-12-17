@@ -26,7 +26,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
 ## 외부참여형
  - **[인공지능 기본과정(160H)](https://github.com/Byung-moon/AI_Huinno_Academy_BasicClass)**
  - **[인공지능 고급과정(시각)](https://github.com/Byung-moon/AI_Hulnno_Academy_HighClass)**
- - **[대구영진고 JAVA프로그래밍 교육]()**
+ - **[대구영진고 JAVA프로그래밍 교육](https://github.com/Byung-moon/Yung-jin-edu)**
 
 ## 경진대회형
  - **[2020 캡스톤 디자인]()**
