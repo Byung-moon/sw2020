@@ -76,8 +76,11 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
      일시 : 20.11.19
+     
      장소 : 온라인
+     
      주최기관명: 경북대학교 산학협력단
+     
      담당자 연락처: -
      
      
@@ -87,8 +90,11 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
      일시 : 20.11.27
+     
      장소 : IT융복합관 345호
+     
      주최기관명: 경북대학교 PRIME 사업단
+     
      담당자 연락처: -
      
      
@@ -99,9 +105,12 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
      일시 : 20.11.05 - 20.11.06
+     
      장소 : 온라인
+     
      주최기관명: 정보처리학회
-     담당자 연락처:
+     
+     담당자 연락처: 02-2077-1414
      
      
      
@@ -110,10 +119,15 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
  
-     일시 :
-     장소 :
-     주최기관명:
-     담당자 연락처:
+     일시 : 19.06 - 19.08 
+     
+     시상일 : 19.10.07
+     
+     장소 : 서울
+     
+     주최기관명: 디스플레이 산업협회
+     
+     담당자 연락처: +10-2335-2203
      
      
      
@@ -122,10 +136,13 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
  
-     일시 :
-     장소 :
-     주최기관명:
-     담당자 연락처:
+     일시 : 19.11.23
+     
+     장소 : 
+     
+     주최기관명: 경찰청 
+     
+     담당자 연락처: +82-2-958-4989
      
      
      
