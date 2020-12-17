@@ -27,8 +27,12 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
      참여기간 : 20.07.06 - 20.08.31
+     
      외부기관명 : 한국IT비즈니스진흥협회
+     
      담당자 연락처 : 010-5421-3347 AI HuInno Academy 운영 사무국  
+     
+     
      
      
      
@@ -37,7 +41,9 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
      
      참여기간: 20.08.05 - 20.08.17
+     
      외부기관명: 한국IT비즈니스진흥협회
+     
      담당자 연락처: 010-5421-3347 AI HuInno Academy 운영 사무국  
      
      
@@ -51,7 +57,9 @@ This is a repository for the 2020 SW-oriented university evaluation.
  
  
      참여기간: 19.09 - 19.11
+     
      외부기관명: 대구영진고등학교
+     
      담당자 연락처: 대구영진고 이대형 선생님
 
 
