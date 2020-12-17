@@ -19,7 +19,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
  - **[ITEC411 IoT 설계 및 프로그래밍 / 2019 2학기 / 강순주 교수님 ](https://github.com/Byung-moon/IOT-TermProject)**
  - **[ITEC201 컴퓨터학개론 / 2019 1학기 / 김정준 교수님](https://github.com/Byung-moon/assembly)**
  - **[COMP311 논리회로설계 / 2018 2학기 / 김찬용 교수님]()**
- - **[EECS201 C프로그래밍과실습 / 2018 여름계절학기 / 이경숙 교수님]()**
+ - **[EECS201 C프로그래밍과실습 / 2018 여름계절학기 / 이경숙 교수님](https://github.com/Byung-moon/Moon)**
 
 
 ## 외부참여형
