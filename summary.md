@@ -67,11 +67,69 @@ This is a repository for the 2020 SW-oriented university evaluation.
 
 
 ## 경진대회형
- - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**
+
+
+
+
+ - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**  
+ 
+ 
+ 
+     일시 : 20.11.19
+     장소 : 온라인
+     주최기관명: 경북대학교 산학협력단
+     담당자 연락처: -
+     
+     
+     
+     
  - **[2020 코드페어](https://github.com/Byung-moon/codefair2020)**
+ 
+ 
+     일시 : 20.11.27
+     장소 : IT융복합관 345호
+     주최기관명: 경북대학교 PRIME 사업단
+     담당자 연락처: -
+     
+     
+     
+     
  - **[정보처리학회 추계학술발표대회](https://github.com/Byung-moon/RunningMate)**
+ 
+ 
+ 
+     일시 : 20.11.05 - 20.11.06
+     장소 : 온라인
+     주최기관명: 정보처리학회
+     담당자 연락처:
+     
+     
+     
+     
  - **[2019 디스플레이 챌린지]()**
+ 
+ 
+ 
+     일시 :
+     장소 :
+     주최기관명:
+     담당자 연락처:
+     
+     
+     
+     
  - **[2018 제4회 과학치안 아이디어 공모전]()**
+ 
+ 
+ 
+     일시 :
+     장소 :
+     주최기관명:
+     담당자 연락처:
+     
+     
+     
+     
 
 
 ## 자율과제형
