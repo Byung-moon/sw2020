@@ -71,7 +71,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
 
 
 
- - **[2020 캡스톤 디자인](https://github.com/Byung-moon/capstone2020)**  
+ - **[2020 캡스톤 디자인(우수상)](https://github.com/Byung-moon/capstone2020)**  
  
  
  
@@ -86,7 +86,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
      
      
      
- - **[2020 코드페어](https://github.com/Byung-moon/codefair2020)**
+ - **[2020 코드페어(장려상)](https://github.com/Byung-moon/codefair2020)**
  
  
      일시 : 20.11.27
@@ -100,7 +100,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
      
      
      
- - **[정보처리학회 추계학술발표대회](https://github.com/Byung-moon/RunningMate)**
+ - **[정보처리학회 추계학술발표대회(금상)](https://github.com/Byung-moon/RunningMate)**
  
  
  
@@ -115,7 +115,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
      
      
      
- - **[2019 디스플레이 챌린지](https://github.com/Byung-moon/DisplayChallange)**
+ - **[2019 디스플레이 챌린지(디스플레이 협회장상)](https://github.com/Byung-moon/DisplayChallange)**
  
  
  
@@ -132,7 +132,7 @@ This is a repository for the 2020 SW-oriented university evaluation.
      
      
      
- - **[2018 제4회 과학치안 아이디어 공모전](https://github.com/Byung-moon/MyPoL)**
+ - **[2018 제4회 과학치안 아이디어 공모전(경찰대학장상)](https://github.com/Byung-moon/MyPoL)**
  
  
  
